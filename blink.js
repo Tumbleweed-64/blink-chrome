@@ -6,4 +6,4 @@ function blinkText() {
     }
 }
 
-window.setInterval(main, 500);
+window.setInterval(blinkText, 500);
